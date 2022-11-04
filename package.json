@@ -1,0 +1,22 @@
+{
+    "name": "e-commerce",
+    "version": "1.0.0",
+    "description": "challenge4-alura-geek",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatrisantunes/Projeto-Ecommerce-Alura"
+    },
+    "author": "Beatris Antunes Silva",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/beatrisantunes/Projeto-Ecommerce-Alura/issues"
+    },
+    "homepage": "https://github.com/beatrisantunes/Projeto-Ecommerce-Alura/blob/main/README.md",
+    "dependencies": {
+        "json-server": "^0.17.0"
+    }
+}

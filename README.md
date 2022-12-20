@@ -24,3 +24,10 @@ A empresa AluraGeek está precisando trazer mais clientes e aumentar suas vendas
 [🔗 Clique aqui para acessar](https://beatrisantunes.github.io/Projeto-Ecommerce-Alura)
 
 
+
+## 🛠 Tecnologias
+
+- HTML
+- CSS
+- Javascript
+- Git e Github

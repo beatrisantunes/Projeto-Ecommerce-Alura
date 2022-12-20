@@ -21,6 +21,6 @@ A empresa AluraGeek está precisando trazer mais clientes e aumentar suas vendas
 
 ##
 
-### Link: https://beatrisantunes.github.io/Projeto-Ecommerce-Alura
+[🔗 Clique aqui para acessar](https://beatrisantunes.github.io/Projeto-Ecommerce-Alura)
 
 

@@ -5,22 +5,21 @@ Projeto desenvolvido para o desafio da Challenge Oracle ONE na formação de Fro
 <p align="center">
 <img width="150" src="https://i.imgur.com/lcL9KM2.png">
   
-  ##
 
 
-### O projeto
+>Trilha Front-End
 
 A empresa AluraGeek está precisando trazer mais clientes e aumentar suas vendas, para isso desejam implementar um e-commerce e levar a empresa ao próximo patamar, se tornar mais digital.
 
-##
 
-### Resultado do projeto
 
-<p align="center">
+## Resultado do projeto
+
+
 <img width="500" src="https://i.imgur.com/A3P1rpD.png">
 
-##
 
+## Link:
 [🔗 Clique aqui para acessar](https://beatrisantunes.github.io/Projeto-Ecommerce-Alura)
 
 

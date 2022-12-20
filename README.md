@@ -1,4 +1,4 @@
-# Projeto Ecommerce
+<h1 align="center"> Projeto Ecommerce </h1>
 Projeto desenvolvido para o desafio da Challenge Oracle ONE na formação de Front-End, com o objetivo de aprender o básico da lógica de programação e JavaScript, foi proposto fazer um site de Ecommerce.
 
 
@@ -13,13 +13,13 @@ A empresa AluraGeek está precisando trazer mais clientes e aumentar suas vendas
 
 
 
-## Resultado do projeto
+## 📌Resultado:
 
 
 <img width="500" src="https://i.imgur.com/A3P1rpD.png">
 
   
-## 🛠 Tecnologias
+## 💻🛠 Tecnologias e Ferramentas:
 
 - HTML
 - CSS
@@ -27,8 +27,8 @@ A empresa AluraGeek está precisando trazer mais clientes e aumentar suas vendas
 - Git e Github
 
 
-## Link:
-[🔗 Clique aqui para acessar](https://beatrisantunes.github.io/Projeto-Ecommerce-Alura)
+## 🔗 Link:
+[ Site ](https://beatrisantunes.github.io/Projeto-Ecommerce-Alura)
 
 
 
